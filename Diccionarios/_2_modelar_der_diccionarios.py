@@ -19,11 +19,11 @@
 
 # ── Entidad: artista (ya construida para referencia) ─────────
 # Cada registro es un diccionario: clave = nombre del campo
-artista_1 = {"id_artista": 1, "nombre_artista": "Branksy", "nacionalidad":"Inglaterra"}
-artista_2 = {"id_artista": 2, "nombre_artista": "Kusama", "nacionalidad":"Japon"}
-artista_3 = {"id_artista": 3, "nombre_artista": "Koons", "nacionalidad":"EEUU"}
-artista_4 = {"id_artista": 4, "nombre_artista": "Hirst", "nacionalidad":"Inglaterra"}
-artista_5 = {"id_artista": 5, "nombre_artista": "Murakami", "nacionalidad":"Japon"}
+artista_1 = {"id_artista": 1, "nombre_artista": "Branksy", "nacionalidad": "Inglaterra"}
+artista_2 = {"id_artista": 2, "nombre_artista": "Kusama", "nacionalidad": "Japon"}
+artista_3 = {"id_artista": 3, "nombre_artista": "Koons", "nacionalidad": "EEUU"}
+artista_4 = {"id_artista": 4, "nombre_artista": "Hirst", "nacionalidad": "Inglaterra"}
+artista_5 = {"id_artista": 5, "nombre_artista": "Murakami", "nacionalidad": "Japon"}
 
 # La "tabla" de artistas: una lista de diccionarios
 artistas = [artista_1, artista_2, artista_3, artista_4, artista_5]
@@ -42,14 +42,11 @@ artistas = [artista_1, artista_2, artista_3, artista_4, artista_5]
 #   2 | Guggenheim | New York | EEUU
 
 
-galeria_1 = {"id_galeria": 1, 
-             "nombre_galeria": "MOMA", 
-             "ciudad": "New York",
-             "pais": "EEUU"}
-galeria_2 = None # Completa
+galeria_1 = {"id_galeria": 1, "nombre_galeria": "MOMA", "ciudad": "New York", "pais": "EEUU"}
+galeria_2 = {"id_galeria": 2, "nombre_galeria": "Guggenheim", "ciudad": "New York", "pais": "EEUU"}
 
 # Paso 2: Armá la lista de galeroas con los dos registros creados arriba.
-temas = None # Completa
+galerias = [galeria_1, galeria_2]
 
 
 # ********** FUNCIONES AUXILIARES ***************
@@ -57,16 +54,16 @@ def mostrar_artistas(artistas):
     for registro in artistas:
         print(registro)
 
-# Paso 3: 
-# completa la función que muestra las galerías en terminal 
-def mostrar_galerías(temas):
-    """
-    Completa
-    """
+
+# Paso 3:
+# completa la función que muestra las galerías en terminal
+def mostrar_galerias(galerias):
+    for regitro in galerias:
+        print(regitro)
 
 
-# Paso 4: 
-# Completa la función ingresar_tema() para ingresar por terminal los campos del tema 
+# Paso 4:
+# Completa la función ingresar_galeria() para ingresar por terminal los campos de la galeria
 # Con esos datos, arma un diccionario (registro) y agregalo a la lista galerias usando append()
 
 # Datos pendientes a ingresar:
@@ -76,21 +73,39 @@ def mostrar_galerías(temas):
 
 
 def ingresar_galeria():
-   """
-   Completar
-   """
+    id = input("id: ")
+    nombre = input("nombre: ")
+    ciudad = input("ciudad: ")
+    pais = input("pais: ")
+
+    galeria = {
+        "id_galeria": id,
+        "nombre_galeria": nombre,
+        "ciudad": ciudad,
+        "pais": pais,
+    }
+
+    return galeria
+
 
 # Paso : generá un Loop en la función main que llame a la función
 # # ingresar_galeria() - se sugiere que el usuario indique fin de carga
 
+
 # ********** FUNCION PRINCIPAL ***************
 def main():
+    print("Artistas ")
+    mostrar_artistas(artistas)
+
+    print("\nGalerias")
+    mostrar_galerias(galerias)
     """
-    Completar 
+    Completar
     """
 
     # mostrar_artistas(artistas)
     # mostrar_galerias(galerias)
+
 
 # Llamada a la función principal
 main()
@@ -106,7 +121,7 @@ main()
 
 # Paso 7:
 # Genera en la función main, un menú para la entidad galeria,
-# con las opciones: 
+# con las opciones:
 # 1. Crear nueva galeria
 # 2. Buscar galeria por país
 # 3. Eliminar galeria po id
