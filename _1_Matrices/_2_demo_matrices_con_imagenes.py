@@ -196,7 +196,7 @@ def main():
             case "4":
                 break
 
-            case _:
+            case _: # default
                 print("Opción inválida")
 
 
