@@ -16,6 +16,8 @@
 # REPRESENTACIÓN CON DICCIONARIOS
 # ============================================================
 
+# Declaramos una constante
+INDICE = ""
 
 # ── Entidad: artista (ya construida para referencia) ─────────
 # Cada registro es un diccionario: clave = nombre del campo
@@ -71,12 +73,59 @@ def mostrar_galerias(galerias):
 # 4 | Orsay | Paris | Francia
 # 5 | Brera | Milan | Italia
 
+# Utilities 
+def validar_id_galeria(id_galeria:str):
+    """
+    Valida que el id_galeria se pueda convertir a int.
+    Retorna True si es válido, False si no.
+    """
+    return id_galeria.isdigit()
+
+def validar_nombre_galeria(nombre:str):
+    """
+    Return False si nombre es igual ""
+    Return True si nombre es distinto de ""
+
+    """
+    # Completar 
+    # if nombre: # si nombre es "" retorna False
+    # if nombre == "": 
+    # if len(nombre) == 0:
+    #     return False
+    # else:
+    #     return True 
+    return len(nombre)!=0
+
+# Funciones de lectura por terminal
+def leer_id_galeria():
+    """
+    Lee por terminal el id de la galeria
+    retorna el id_galeria validado
+    """
+    id_galeria = input("ID Galeria: ").strip()
+    while not validar_id_galeria(id_galeria):
+        print("El ID de la galeria solo puede contener numeros.")
+        id_galeria = input("ID Galeria: ").strip()
+
+    return int(id_galeria)
+
+def leer_nombre():
+    nombre = input("Nombre de la galeria: ").strip()
+    while not validar_nombre_galeria(nombre):
+        print("El nombre de la galeria no puede estar vacia.")
+        nombre = input("Nombre de la galeria: ").strip()
+
+    return nombre
 
 def ingresar_galeria():
-    id = input("id: ")
-    nombre = input("nombre: ")
-    ciudad = input("ciudad: ")
-    pais = input("pais: ")
+    """
+    Crea un diccionario - registro de una galería
+    Retorna un diccionario con los campos de la entidad
+    """
+    id = leer_id_galeria()
+    nombre = leer_nombre()
+    ciudad = input("Ingrese la ciudad: ")
+    pais = input("Ingrese el pais: ")
 
     galeria = {
         "id_galeria": id,
@@ -92,6 +141,18 @@ def ingresar_galeria():
 # # ingresar_galeria() - se sugiere que el usuario indique fin de carga
 
 
+def buscar_galeria_pais(id_galeria):
+    for galeria in galerias:
+        if ():
+
+    pass
+
+def eliminar_galeria_id():
+        for galeria in galerias:
+        if ():
+            remove
+    pass
+
 # ********** FUNCION PRINCIPAL ***************
 def main():
     print("Artistas ")
@@ -99,12 +160,10 @@ def main():
 
     print("\nGalerias")
     mostrar_galerias(galerias)
-    """
-    Completar
-    """
+    galeria = ingresar_galeria()
+    galerias.append(galeria)
+    
 
-    # mostrar_artistas(artistas)
-    # mostrar_galerias(galerias)
 
 
 # Llamada a la función principal
