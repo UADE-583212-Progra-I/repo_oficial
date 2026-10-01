@@ -1,0 +1,14 @@
+def gen_matriz_nula(n_filas, n_columnas):
+    matriz_nula = []
+    for _ in range(n_filas):
+        fila = []
+        for _ in range(n_columnas):
+            fila.append(0)
+        matriz_nula.append(fila)
+    return matriz_nula
+
+def gen_nula_lxc(n_filas, n_columnas):
+    matriz_nula = [[0]*n_columnas for _ in range(n_filas)]
+    return matriz_nula
+
+print(gen_nula_lxc(2,2))

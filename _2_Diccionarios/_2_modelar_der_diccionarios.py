@@ -49,7 +49,7 @@ galeria_2 = {"id_galeria": 2, "nombre_galeria": "Guggenheim", "ciudad": "New Yor
 
 # Paso 2: Armá la lista de galeroas con los dos registros creados arriba.
 galerias = [galeria_1, galeria_2]
-
+# galerias.pop(0) #eliminar galeria_1
 
 # ********** FUNCIONES AUXILIARES ***************
 def mostrar_artistas(artistas):
@@ -141,17 +141,51 @@ def ingresar_galeria():
 # # ingresar_galeria() - se sugiere que el usuario indique fin de carga
 
 
-def buscar_galeria_pais(id_galeria):
+def buscar_galeria_id(id_galeria:int, galerias:list):
+    """
+    DocString
+    parametro: id_galeria:int, galerias:list
+    return: lista de diccionarios (longitud 0 si no hay match o 1 si hay match)
+    """
+    lista_encontrados = []
     for galeria in galerias:
-        if ():
+        if galeria["id_galeria"] == id_galeria:
+            lista_encontrados.append(galeria)
+            break
+    return lista_encontrados
 
-    pass
 
-def eliminar_galeria_id():
-        for galeria in galerias:
-        if ():
-            remove
-    pass
+def buscar_galeria_pais(pais:str, galerias:list):
+    """
+    DocString
+    parametro: pais:str, galerias:list
+    return: lista de diccionarios
+    """
+    lista_encontrados = []
+    for galeria in galerias:
+        if galeria["pais"].strip().lower() == pais.strip().lower():
+            lista_encontrados.append(galeria)
+    return lista_encontrados
+
+
+def eliminar_galeria_id(id_galeria:int, galerias:list):
+    """
+    DocString
+    parametro: id_galeria:str, galerias:list
+    return: Ok True - Mal False / diccionarop
+    """
+    # opcion 1
+    for galeria in galerias: 
+        if galeria["id_galeria"] == id_galeria:
+            galerias.remove(galeria) # opcion 1
+            return True # -> break
+    return False 
+
+    # opcion 2
+    # for indice, galeria in enumerate(galerias): # enumerate -> (indice, valor)
+    #     if galeria["id_galeria"] == id_galeria:
+    #         galerias.pop(indice) 
+
 
 # ********** FUNCION PRINCIPAL ***************
 def main():
@@ -160,10 +194,25 @@ def main():
 
     print("\nGalerias")
     mostrar_galerias(galerias)
+    # Create
     galeria = ingresar_galeria()
     galerias.append(galeria)
-    
 
+    # Buscar
+    id_galeria = input("Ingrese id a buscar")
+    lista_encontrados = buscar_galeria_id(id_galeria)
+    if len(lista_encontrados)!=0:
+        print(lista_encontrados[0])
+    else:
+        print("No encontrado")
+    
+    # Eliminar
+    id_galeria = input("Ingrese id a eliminar")
+    respuesta = eliminar_galeria_id(id_galeria)
+    if respuesta == True:
+        print("Eliminado Exitosamente")
+    else:
+        print("Error al eliminar!")
 
 
 # Llamada a la función principal
