@@ -1,0 +1,27 @@
+[
+    {
+        "id_usuario": 1,
+        "nombre": "Elon",
+        "email": "elon@tesla.com"
+    },
+    {
+        "id_usuario": 2,
+        "nombre": "Jeff",
+        "email": "jeff@aws.com"
+    },
+    {
+        "id_usuario": 3,
+        "nombre": "Bill",
+        "email": "Bill@microsoft.com"
+    },
+    {
+        "id_usuario": 4,
+        "nombre": "Mark",
+        "email": "Mark@meta.com"
+    },
+    {
+        "id_usuario": 5,
+        "nombre": "Lisa",
+        "email": "Lisa@amd.com"
+    }
+]
