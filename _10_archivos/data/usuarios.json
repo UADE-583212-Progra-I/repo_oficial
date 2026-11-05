@@ -1,0 +1,12 @@
+[
+    {
+        "id_usuario": 1,
+        "nombre": "Elon",
+        "email": "elon@tesla.com"
+    },
+        {
+        "id_usuario": 2,
+        "nombre": "Jeff",
+        "email": "jeff@tesla.com"
+    }
+]

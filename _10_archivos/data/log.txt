@@ -1,0 +1,6 @@
+=== Log del sistema ===
+Usuario creado: Elon (elon@tesla.com)
+Usuario creado: Jeff (jeff@aws.com)
+Usuario eliminado: id=3
+Usuario eliminado: id=3
+Usuario eliminado: id=3

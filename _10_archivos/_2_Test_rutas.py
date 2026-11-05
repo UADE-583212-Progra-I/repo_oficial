@@ -25,3 +25,18 @@ RUTA_DATA = BASE_DIR / "data"
 print("¿Existe la carpeta 'data' (con path)?", os.path.exists(RUTA_DATA))
 
 
+
+try:
+    file = open("data/test.txt", "r", encoding="utf-8")
+    # print(file)
+    file.write("Hola desde file\n")
+    file.close()
+except Exception as e:
+    print(f"ERROR capturado con try: {e}")
+
+
+try:
+    with open("data/test.txt", "w", encoding="utf-8") as file:
+        file.write("Hola desde with\n")
+except Exception as e:
+    print(e)
