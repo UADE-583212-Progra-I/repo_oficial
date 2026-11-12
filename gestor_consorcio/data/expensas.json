@@ -1,0 +1,422 @@
+[
+    {
+        "id_expensa": 1,
+        "importe": 323625.0,
+        "vencimiento": "2026-02-10",
+        "codigo": "1A",
+        "id_liquidacion": 1
+    },
+    {
+        "id_expensa": 2,
+        "importe": 323625.0,
+        "vencimiento": "2026-02-10",
+        "codigo": "1B",
+        "id_liquidacion": 1
+    },
+    {
+        "id_expensa": 3,
+        "importe": 366775.0,
+        "vencimiento": "2026-02-10",
+        "codigo": "2A",
+        "id_liquidacion": 1
+    },
+    {
+        "id_expensa": 4,
+        "importe": 366775.0,
+        "vencimiento": "2026-02-10",
+        "codigo": "2B",
+        "id_liquidacion": 1
+    },
+    {
+        "id_expensa": 5,
+        "importe": 388350.0,
+        "vencimiento": "2026-02-10",
+        "codigo": "3A",
+        "id_liquidacion": 1
+    },
+    {
+        "id_expensa": 6,
+        "importe": 388350.0,
+        "vencimiento": "2026-02-10",
+        "codigo": "3B",
+        "id_liquidacion": 1
+    },
+    {
+        "id_expensa": 7,
+        "importe": 327720.0,
+        "vencimiento": "2026-03-10",
+        "codigo": "1A",
+        "id_liquidacion": 2
+    },
+    {
+        "id_expensa": 8,
+        "importe": 327720.0,
+        "vencimiento": "2026-03-10",
+        "codigo": "1B",
+        "id_liquidacion": 2
+    },
+    {
+        "id_expensa": 9,
+        "importe": 371416.0,
+        "vencimiento": "2026-03-10",
+        "codigo": "2A",
+        "id_liquidacion": 2
+    },
+    {
+        "id_expensa": 10,
+        "importe": 371416.0,
+        "vencimiento": "2026-03-10",
+        "codigo": "2B",
+        "id_liquidacion": 2
+    },
+    {
+        "id_expensa": 11,
+        "importe": 393264.0,
+        "vencimiento": "2026-03-10",
+        "codigo": "3A",
+        "id_liquidacion": 2
+    },
+    {
+        "id_expensa": 12,
+        "importe": 393264.0,
+        "vencimiento": "2026-03-10",
+        "codigo": "3B",
+        "id_liquidacion": 2
+    },
+    {
+        "id_expensa": 13,
+        "importe": 381480.0,
+        "vencimiento": "2026-04-10",
+        "codigo": "1A",
+        "id_liquidacion": 3
+    },
+    {
+        "id_expensa": 14,
+        "importe": 381480.0,
+        "vencimiento": "2026-04-10",
+        "codigo": "1B",
+        "id_liquidacion": 3
+    },
+    {
+        "id_expensa": 15,
+        "importe": 432344.0,
+        "vencimiento": "2026-04-10",
+        "codigo": "2A",
+        "id_liquidacion": 3
+    },
+    {
+        "id_expensa": 16,
+        "importe": 432344.0,
+        "vencimiento": "2026-04-10",
+        "codigo": "2B",
+        "id_liquidacion": 3
+    },
+    {
+        "id_expensa": 17,
+        "importe": 457776.0,
+        "vencimiento": "2026-04-10",
+        "codigo": "3A",
+        "id_liquidacion": 3
+    },
+    {
+        "id_expensa": 18,
+        "importe": 457776.0,
+        "vencimiento": "2026-04-10",
+        "codigo": "3B",
+        "id_liquidacion": 3
+    },
+    {
+        "id_expensa": 19,
+        "importe": 330720.0,
+        "vencimiento": "2026-05-10",
+        "codigo": "1A",
+        "id_liquidacion": 4
+    },
+    {
+        "id_expensa": 20,
+        "importe": 330720.0,
+        "vencimiento": "2026-05-10",
+        "codigo": "1B",
+        "id_liquidacion": 4
+    },
+    {
+        "id_expensa": 21,
+        "importe": 374816.0,
+        "vencimiento": "2026-05-10",
+        "codigo": "2A",
+        "id_liquidacion": 4
+    },
+    {
+        "id_expensa": 22,
+        "importe": 374816.0,
+        "vencimiento": "2026-05-10",
+        "codigo": "2B",
+        "id_liquidacion": 4
+    },
+    {
+        "id_expensa": 23,
+        "importe": 396864.0,
+        "vencimiento": "2026-05-10",
+        "codigo": "3A",
+        "id_liquidacion": 4
+    },
+    {
+        "id_expensa": 24,
+        "importe": 396864.0,
+        "vencimiento": "2026-05-10",
+        "codigo": "3B",
+        "id_liquidacion": 4
+    },
+    {
+        "id_expensa": 25,
+        "importe": 336960.0,
+        "vencimiento": "2026-06-10",
+        "codigo": "1A",
+        "id_liquidacion": 5
+    },
+    {
+        "id_expensa": 26,
+        "importe": 336960.0,
+        "vencimiento": "2026-06-10",
+        "codigo": "1B",
+        "id_liquidacion": 5
+    },
+    {
+        "id_expensa": 27,
+        "importe": 381888.0,
+        "vencimiento": "2026-06-10",
+        "codigo": "2A",
+        "id_liquidacion": 5
+    },
+    {
+        "id_expensa": 28,
+        "importe": 381888.0,
+        "vencimiento": "2026-06-10",
+        "codigo": "2B",
+        "id_liquidacion": 5
+    },
+    {
+        "id_expensa": 29,
+        "importe": 404352.0,
+        "vencimiento": "2026-06-10",
+        "codigo": "3A",
+        "id_liquidacion": 5
+    },
+    {
+        "id_expensa": 30,
+        "importe": 404352.0,
+        "vencimiento": "2026-06-10",
+        "codigo": "3B",
+        "id_liquidacion": 5
+    },
+    {
+        "id_expensa": 31,
+        "importe": 350865.0,
+        "vencimiento": "2026-07-10",
+        "codigo": "1A",
+        "id_liquidacion": 6
+    },
+    {
+        "id_expensa": 32,
+        "importe": 350865.0,
+        "vencimiento": "2026-07-10",
+        "codigo": "1B",
+        "id_liquidacion": 6
+    },
+    {
+        "id_expensa": 33,
+        "importe": 397647.0,
+        "vencimiento": "2026-07-10",
+        "codigo": "2A",
+        "id_liquidacion": 6
+    },
+    {
+        "id_expensa": 34,
+        "importe": 397647.0,
+        "vencimiento": "2026-07-10",
+        "codigo": "2B",
+        "id_liquidacion": 6
+    },
+    {
+        "id_expensa": 35,
+        "importe": 421038.0,
+        "vencimiento": "2026-07-10",
+        "codigo": "3A",
+        "id_liquidacion": 6
+    },
+    {
+        "id_expensa": 36,
+        "importe": 421038.0,
+        "vencimiento": "2026-07-10",
+        "codigo": "3B",
+        "id_liquidacion": 6
+    },
+    {
+        "id_expensa": 37,
+        "importe": 462570.0,
+        "vencimiento": "2026-08-10",
+        "codigo": "1A",
+        "id_liquidacion": 7
+    },
+    {
+        "id_expensa": 38,
+        "importe": 462570.0,
+        "vencimiento": "2026-08-10",
+        "codigo": "1B",
+        "id_liquidacion": 7
+    },
+    {
+        "id_expensa": 39,
+        "importe": 524246.0,
+        "vencimiento": "2026-08-10",
+        "codigo": "2A",
+        "id_liquidacion": 7
+    },
+    {
+        "id_expensa": 40,
+        "importe": 524246.0,
+        "vencimiento": "2026-08-10",
+        "codigo": "2B",
+        "id_liquidacion": 7
+    },
+    {
+        "id_expensa": 41,
+        "importe": 555084.0,
+        "vencimiento": "2026-08-10",
+        "codigo": "3A",
+        "id_liquidacion": 7
+    },
+    {
+        "id_expensa": 42,
+        "importe": 555084.0,
+        "vencimiento": "2026-08-10",
+        "codigo": "3B",
+        "id_liquidacion": 7
+    },
+    {
+        "id_expensa": 43,
+        "importe": 366285.0,
+        "vencimiento": "2026-09-10",
+        "codigo": "1A",
+        "id_liquidacion": 8
+    },
+    {
+        "id_expensa": 44,
+        "importe": 366285.0,
+        "vencimiento": "2026-09-10",
+        "codigo": "1B",
+        "id_liquidacion": 8
+    },
+    {
+        "id_expensa": 45,
+        "importe": 415123.0,
+        "vencimiento": "2026-09-10",
+        "codigo": "2A",
+        "id_liquidacion": 8
+    },
+    {
+        "id_expensa": 46,
+        "importe": 415123.0,
+        "vencimiento": "2026-09-10",
+        "codigo": "2B",
+        "id_liquidacion": 8
+    },
+    {
+        "id_expensa": 47,
+        "importe": 439542.0,
+        "vencimiento": "2026-09-10",
+        "codigo": "3A",
+        "id_liquidacion": 8
+    },
+    {
+        "id_expensa": 48,
+        "importe": 439542.0,
+        "vencimiento": "2026-09-10",
+        "codigo": "3B",
+        "id_liquidacion": 8
+    },
+    {
+        "id_expensa": 49,
+        "importe": 393420.0,
+        "vencimiento": "2026-10-10",
+        "codigo": "1A",
+        "id_liquidacion": 9
+    },
+    {
+        "id_expensa": 50,
+        "importe": 393420.0,
+        "vencimiento": "2026-10-10",
+        "codigo": "1B",
+        "id_liquidacion": 9
+    },
+    {
+        "id_expensa": 51,
+        "importe": 445876.0,
+        "vencimiento": "2026-10-10",
+        "codigo": "2A",
+        "id_liquidacion": 9
+    },
+    {
+        "id_expensa": 52,
+        "importe": 445876.0,
+        "vencimiento": "2026-10-10",
+        "codigo": "2B",
+        "id_liquidacion": 9
+    },
+    {
+        "id_expensa": 53,
+        "importe": 472104.0,
+        "vencimiento": "2026-10-10",
+        "codigo": "3A",
+        "id_liquidacion": 9
+    },
+    {
+        "id_expensa": 54,
+        "importe": 472104.0,
+        "vencimiento": "2026-10-10",
+        "codigo": "3B",
+        "id_liquidacion": 9
+    },
+    {
+        "id_expensa": 55,
+        "importe": 368160.0,
+        "vencimiento": "2026-11-10",
+        "codigo": "1A",
+        "id_liquidacion": 10
+    },
+    {
+        "id_expensa": 56,
+        "importe": 368160.0,
+        "vencimiento": "2026-11-10",
+        "codigo": "1B",
+        "id_liquidacion": 10
+    },
+    {
+        "id_expensa": 57,
+        "importe": 417248.0,
+        "vencimiento": "2026-11-10",
+        "codigo": "2A",
+        "id_liquidacion": 10
+    },
+    {
+        "id_expensa": 58,
+        "importe": 417248.0,
+        "vencimiento": "2026-11-10",
+        "codigo": "2B",
+        "id_liquidacion": 10
+    },
+    {
+        "id_expensa": 59,
+        "importe": 441792.0,
+        "vencimiento": "2026-11-10",
+        "codigo": "3A",
+        "id_liquidacion": 10
+    },
+    {
+        "id_expensa": 60,
+        "importe": 441792.0,
+        "vencimiento": "2026-11-10",
+        "codigo": "3B",
+        "id_liquidacion": 10
+    }
+]

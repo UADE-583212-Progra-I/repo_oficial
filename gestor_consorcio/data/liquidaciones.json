@@ -1,0 +1,72 @@
+[
+    {
+        "id_liquidacion": 1,
+        "mes": 1,
+        "anio": 2026,
+        "total": 2157500,
+        "id_consorcio": 1
+    },
+    {
+        "id_liquidacion": 2,
+        "mes": 2,
+        "anio": 2026,
+        "total": 2184800,
+        "id_consorcio": 1
+    },
+    {
+        "id_liquidacion": 3,
+        "mes": 3,
+        "anio": 2026,
+        "total": 2543200,
+        "id_consorcio": 1
+    },
+    {
+        "id_liquidacion": 4,
+        "mes": 4,
+        "anio": 2026,
+        "total": 2204800,
+        "id_consorcio": 1
+    },
+    {
+        "id_liquidacion": 5,
+        "mes": 5,
+        "anio": 2026,
+        "total": 2246400,
+        "id_consorcio": 1
+    },
+    {
+        "id_liquidacion": 6,
+        "mes": 6,
+        "anio": 2026,
+        "total": 2339100,
+        "id_consorcio": 1
+    },
+    {
+        "id_liquidacion": 7,
+        "mes": 7,
+        "anio": 2026,
+        "total": 3083800,
+        "id_consorcio": 1
+    },
+    {
+        "id_liquidacion": 8,
+        "mes": 8,
+        "anio": 2026,
+        "total": 2441900,
+        "id_consorcio": 1
+    },
+    {
+        "id_liquidacion": 9,
+        "mes": 9,
+        "anio": 2026,
+        "total": 2622800,
+        "id_consorcio": 1
+    },
+    {
+        "id_liquidacion": 10,
+        "mes": 10,
+        "anio": 2026,
+        "total": 2454400,
+        "id_consorcio": 1
+    }
+]

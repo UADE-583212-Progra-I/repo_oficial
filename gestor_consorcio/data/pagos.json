@@ -1,0 +1,394 @@
+[
+    {
+        "id_pago": 1,
+        "fecha": "2026-02-04",
+        "monto": 323625.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 1
+    },
+    {
+        "id_pago": 2,
+        "fecha": "2026-02-08",
+        "monto": 323625.0,
+        "medio_pago": "efectivo",
+        "id_expensa": 2
+    },
+    {
+        "id_pago": 3,
+        "fecha": "2026-02-06",
+        "monto": 366775.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 3
+    },
+    {
+        "id_pago": 4,
+        "fecha": "2026-02-09",
+        "monto": 366775.0,
+        "medio_pago": "débito",
+        "id_expensa": 4
+    },
+    {
+        "id_pago": 5,
+        "fecha": "2026-02-02",
+        "monto": 388350.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 5
+    },
+    {
+        "id_pago": 6,
+        "fecha": "2026-02-07",
+        "monto": 388350.0,
+        "medio_pago": "crédito",
+        "id_expensa": 6
+    },
+    {
+        "id_pago": 7,
+        "fecha": "2026-03-04",
+        "monto": 327720.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 7
+    },
+    {
+        "id_pago": 8,
+        "fecha": "2026-03-08",
+        "monto": 327720.0,
+        "medio_pago": "efectivo",
+        "id_expensa": 8
+    },
+    {
+        "id_pago": 9,
+        "fecha": "2026-03-06",
+        "monto": 371416.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 9
+    },
+    {
+        "id_pago": 10,
+        "fecha": "2026-03-09",
+        "monto": 371416.0,
+        "medio_pago": "débito",
+        "id_expensa": 10
+    },
+    {
+        "id_pago": 11,
+        "fecha": "2026-03-02",
+        "monto": 393264.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 11
+    },
+    {
+        "id_pago": 12,
+        "fecha": "2026-03-07",
+        "monto": 393264.0,
+        "medio_pago": "crédito",
+        "id_expensa": 12
+    },
+    {
+        "id_pago": 13,
+        "fecha": "2026-04-04",
+        "monto": 381480.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 13
+    },
+    {
+        "id_pago": 14,
+        "fecha": "2026-04-08",
+        "monto": 381480.0,
+        "medio_pago": "efectivo",
+        "id_expensa": 14
+    },
+    {
+        "id_pago": 15,
+        "fecha": "2026-04-06",
+        "monto": 432344.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 15
+    },
+    {
+        "id_pago": 16,
+        "fecha": "2026-04-09",
+        "monto": 432344.0,
+        "medio_pago": "débito",
+        "id_expensa": 16
+    },
+    {
+        "id_pago": 17,
+        "fecha": "2026-04-02",
+        "monto": 457776.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 17
+    },
+    {
+        "id_pago": 18,
+        "fecha": "2026-04-07",
+        "monto": 457776.0,
+        "medio_pago": "crédito",
+        "id_expensa": 18
+    },
+    {
+        "id_pago": 19,
+        "fecha": "2026-05-04",
+        "monto": 330720.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 19
+    },
+    {
+        "id_pago": 20,
+        "fecha": "2026-05-08",
+        "monto": 330720.0,
+        "medio_pago": "efectivo",
+        "id_expensa": 20
+    },
+    {
+        "id_pago": 21,
+        "fecha": "2026-05-06",
+        "monto": 374816.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 21
+    },
+    {
+        "id_pago": 22,
+        "fecha": "2026-05-02",
+        "monto": 396864.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 23
+    },
+    {
+        "id_pago": 23,
+        "fecha": "2026-05-07",
+        "monto": 396864.0,
+        "medio_pago": "crédito",
+        "id_expensa": 24
+    },
+    {
+        "id_pago": 24,
+        "fecha": "2026-06-04",
+        "monto": 336960.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 25
+    },
+    {
+        "id_pago": 25,
+        "fecha": "2026-06-06",
+        "monto": 381888.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 27
+    },
+    {
+        "id_pago": 26,
+        "fecha": "2026-06-02",
+        "monto": 404352.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 29
+    },
+    {
+        "id_pago": 27,
+        "fecha": "2026-06-07",
+        "monto": 404352.0,
+        "medio_pago": "crédito",
+        "id_expensa": 30
+    },
+    {
+        "id_pago": 28,
+        "fecha": "2026-07-04",
+        "monto": 350865.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 31
+    },
+    {
+        "id_pago": 29,
+        "fecha": "2026-07-08",
+        "monto": 350865.0,
+        "medio_pago": "efectivo",
+        "id_expensa": 32
+    },
+    {
+        "id_pago": 30,
+        "fecha": "2026-07-06",
+        "monto": 397647.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 33
+    },
+    {
+        "id_pago": 31,
+        "fecha": "2026-07-02",
+        "monto": 421038.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 35
+    },
+    {
+        "id_pago": 32,
+        "fecha": "2026-07-07",
+        "monto": 421038.0,
+        "medio_pago": "crédito",
+        "id_expensa": 36
+    },
+    {
+        "id_pago": 33,
+        "fecha": "2026-08-04",
+        "monto": 462570.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 37
+    },
+    {
+        "id_pago": 34,
+        "fecha": "2026-08-08",
+        "monto": 462570.0,
+        "medio_pago": "efectivo",
+        "id_expensa": 38
+    },
+    {
+        "id_pago": 35,
+        "fecha": "2026-08-06",
+        "monto": 524246.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 39
+    },
+    {
+        "id_pago": 36,
+        "fecha": "2026-08-09",
+        "monto": 524246.0,
+        "medio_pago": "débito",
+        "id_expensa": 40
+    },
+    {
+        "id_pago": 37,
+        "fecha": "2026-08-02",
+        "monto": 555084.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 41
+    },
+    {
+        "id_pago": 38,
+        "fecha": "2026-08-07",
+        "monto": 555084.0,
+        "medio_pago": "crédito",
+        "id_expensa": 42
+    },
+    {
+        "id_pago": 39,
+        "fecha": "2026-09-04",
+        "monto": 366285.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 43
+    },
+    {
+        "id_pago": 40,
+        "fecha": "2026-09-08",
+        "monto": 366285.0,
+        "medio_pago": "efectivo",
+        "id_expensa": 44
+    },
+    {
+        "id_pago": 41,
+        "fecha": "2026-09-03",
+        "monto": 207561.5,
+        "medio_pago": "efectivo",
+        "id_expensa": 45
+    },
+    {
+        "id_pago": 42,
+        "fecha": "2026-09-06",
+        "monto": 207561.5,
+        "medio_pago": "transferencia",
+        "id_expensa": 45
+    },
+    {
+        "id_pago": 43,
+        "fecha": "2026-09-09",
+        "monto": 415123.0,
+        "medio_pago": "débito",
+        "id_expensa": 46
+    },
+    {
+        "id_pago": 44,
+        "fecha": "2026-09-02",
+        "monto": 439542.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 47
+    },
+    {
+        "id_pago": 45,
+        "fecha": "2026-09-07",
+        "monto": 439542.0,
+        "medio_pago": "crédito",
+        "id_expensa": 48
+    },
+    {
+        "id_pago": 46,
+        "fecha": "2026-10-04",
+        "monto": 393420.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 49
+    },
+    {
+        "id_pago": 47,
+        "fecha": "2026-10-08",
+        "monto": 393420.0,
+        "medio_pago": "efectivo",
+        "id_expensa": 50
+    },
+    {
+        "id_pago": 48,
+        "fecha": "2026-10-06",
+        "monto": 445876.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 51
+    },
+    {
+        "id_pago": 49,
+        "fecha": "2026-10-09",
+        "monto": 445876.0,
+        "medio_pago": "débito",
+        "id_expensa": 52
+    },
+    {
+        "id_pago": 50,
+        "fecha": "2026-10-02",
+        "monto": 472104.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 53
+    },
+    {
+        "id_pago": 51,
+        "fecha": "2026-10-07",
+        "monto": 236052.0,
+        "medio_pago": "crédito",
+        "id_expensa": 54
+    },
+    {
+        "id_pago": 52,
+        "fecha": "2026-11-04",
+        "monto": 368160.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 55
+    },
+    {
+        "id_pago": 53,
+        "fecha": "2026-11-08",
+        "monto": 368160.0,
+        "medio_pago": "efectivo",
+        "id_expensa": 56
+    },
+    {
+        "id_pago": 54,
+        "fecha": "2026-11-06",
+        "monto": 417248.0,
+        "medio_pago": "transferencia",
+        "id_expensa": 57
+    },
+    {
+        "id_pago": 55,
+        "fecha": "2026-11-09",
+        "monto": 417248.0,
+        "medio_pago": "débito",
+        "id_expensa": 58
+    },
+    {
+        "id_pago": 56,
+        "fecha": "2026-11-07",
+        "monto": 441792.0,
+        "medio_pago": "crédito",
+        "id_expensa": 60
+    }
+]

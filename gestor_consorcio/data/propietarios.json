@@ -1,0 +1,32 @@
+[
+    {
+        "dni": 30111222,
+        "nombre": "María González",
+        "telefono": "1144556677",
+        "email": "maria.gonzalez@mail.com"
+    },
+    {
+        "dni": 27333444,
+        "nombre": "Carlos Pérez",
+        "telefono": "1155667788",
+        "email": "carlos.perez@mail.com"
+    },
+    {
+        "dni": 33555666,
+        "nombre": "Lucía Fernández",
+        "telefono": "1166778899",
+        "email": "lucia.fernandez@mail.com"
+    },
+    {
+        "dni": 25777888,
+        "nombre": "Jorge Ramírez",
+        "telefono": "1177889900",
+        "email": "jorge.ramirez@mail.com"
+    },
+    {
+        "dni": 35999000,
+        "nombre": "Sofía Núñez",
+        "telefono": "1188990011",
+        "email": "sofia.nunez@mail.com"
+    }
+]

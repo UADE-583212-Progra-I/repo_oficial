@@ -1,0 +1,282 @@
+[
+    {
+        "id_gasto": 1,
+        "concepto": "limpieza",
+        "monto": 850000,
+        "fecha": "2026-01-03",
+        "id_liquidacion": 1
+    },
+    {
+        "id_gasto": 2,
+        "concepto": "luz",
+        "monto": 387500,
+        "fecha": "2026-01-09",
+        "id_liquidacion": 1
+    },
+    {
+        "id_gasto": 3,
+        "concepto": "ascensor",
+        "monto": 400000,
+        "fecha": "2026-01-15",
+        "id_liquidacion": 1
+    },
+    {
+        "id_gasto": 4,
+        "concepto": "mantenimiento",
+        "monto": 520000,
+        "fecha": "2026-01-21",
+        "id_liquidacion": 1
+    },
+    {
+        "id_gasto": 5,
+        "concepto": "limpieza",
+        "monto": 867000,
+        "fecha": "2026-02-03",
+        "id_liquidacion": 2
+    },
+    {
+        "id_gasto": 6,
+        "concepto": "luz",
+        "monto": 379400,
+        "fecha": "2026-02-09",
+        "id_liquidacion": 2
+    },
+    {
+        "id_gasto": 7,
+        "concepto": "ascensor",
+        "monto": 408000,
+        "fecha": "2026-02-15",
+        "id_liquidacion": 2
+    },
+    {
+        "id_gasto": 8,
+        "concepto": "mantenimiento",
+        "monto": 530400,
+        "fecha": "2026-02-21",
+        "id_liquidacion": 2
+    },
+    {
+        "id_gasto": 9,
+        "concepto": "limpieza",
+        "monto": 884000,
+        "fecha": "2026-03-03",
+        "id_liquidacion": 3
+    },
+    {
+        "id_gasto": 10,
+        "concepto": "luz",
+        "monto": 322400,
+        "fecha": "2026-03-09",
+        "id_liquidacion": 3
+    },
+    {
+        "id_gasto": 11,
+        "concepto": "ascensor",
+        "monto": 416000,
+        "fecha": "2026-03-15",
+        "id_liquidacion": 3
+    },
+    {
+        "id_gasto": 12,
+        "concepto": "mantenimiento",
+        "monto": 920800,
+        "fecha": "2026-03-21",
+        "id_liquidacion": 3
+    },
+    {
+        "id_gasto": 13,
+        "concepto": "limpieza",
+        "monto": 901000,
+        "fecha": "2026-04-03",
+        "id_liquidacion": 4
+    },
+    {
+        "id_gasto": 14,
+        "concepto": "luz",
+        "monto": 328600,
+        "fecha": "2026-04-09",
+        "id_liquidacion": 4
+    },
+    {
+        "id_gasto": 15,
+        "concepto": "ascensor",
+        "monto": 424000,
+        "fecha": "2026-04-15",
+        "id_liquidacion": 4
+    },
+    {
+        "id_gasto": 16,
+        "concepto": "mantenimiento",
+        "monto": 551200,
+        "fecha": "2026-04-21",
+        "id_liquidacion": 4
+    },
+    {
+        "id_gasto": 17,
+        "concepto": "limpieza",
+        "monto": 918000,
+        "fecha": "2026-05-03",
+        "id_liquidacion": 5
+    },
+    {
+        "id_gasto": 18,
+        "concepto": "luz",
+        "monto": 334800,
+        "fecha": "2026-05-09",
+        "id_liquidacion": 5
+    },
+    {
+        "id_gasto": 19,
+        "concepto": "ascensor",
+        "monto": 432000,
+        "fecha": "2026-05-15",
+        "id_liquidacion": 5
+    },
+    {
+        "id_gasto": 20,
+        "concepto": "mantenimiento",
+        "monto": 561600,
+        "fecha": "2026-05-21",
+        "id_liquidacion": 5
+    },
+    {
+        "id_gasto": 21,
+        "concepto": "limpieza",
+        "monto": 935000,
+        "fecha": "2026-06-03",
+        "id_liquidacion": 6
+    },
+    {
+        "id_gasto": 22,
+        "concepto": "luz",
+        "monto": 392100,
+        "fecha": "2026-06-09",
+        "id_liquidacion": 6
+    },
+    {
+        "id_gasto": 23,
+        "concepto": "ascensor",
+        "monto": 440000,
+        "fecha": "2026-06-15",
+        "id_liquidacion": 6
+    },
+    {
+        "id_gasto": 24,
+        "concepto": "mantenimiento",
+        "monto": 572000,
+        "fecha": "2026-06-21",
+        "id_liquidacion": 6
+    },
+    {
+        "id_gasto": 25,
+        "concepto": "limpieza",
+        "monto": 952000,
+        "fecha": "2026-07-03",
+        "id_liquidacion": 7
+    },
+    {
+        "id_gasto": 26,
+        "concepto": "luz",
+        "monto": 451400,
+        "fecha": "2026-07-09",
+        "id_liquidacion": 7
+    },
+    {
+        "id_gasto": 27,
+        "concepto": "ascensor",
+        "monto": 448000,
+        "fecha": "2026-07-15",
+        "id_liquidacion": 7
+    },
+    {
+        "id_gasto": 28,
+        "concepto": "mantenimiento",
+        "monto": 1232400,
+        "fecha": "2026-07-21",
+        "id_liquidacion": 7
+    },
+    {
+        "id_gasto": 29,
+        "concepto": "limpieza",
+        "monto": 969000,
+        "fecha": "2026-08-03",
+        "id_liquidacion": 8
+    },
+    {
+        "id_gasto": 30,
+        "concepto": "luz",
+        "monto": 424100,
+        "fecha": "2026-08-09",
+        "id_liquidacion": 8
+    },
+    {
+        "id_gasto": 31,
+        "concepto": "ascensor",
+        "monto": 456000,
+        "fecha": "2026-08-15",
+        "id_liquidacion": 8
+    },
+    {
+        "id_gasto": 32,
+        "concepto": "mantenimiento",
+        "monto": 592800,
+        "fecha": "2026-08-21",
+        "id_liquidacion": 8
+    },
+    {
+        "id_gasto": 33,
+        "concepto": "limpieza",
+        "monto": 986000,
+        "fecha": "2026-09-03",
+        "id_liquidacion": 9
+    },
+    {
+        "id_gasto": 34,
+        "concepto": "luz",
+        "monto": 359600,
+        "fecha": "2026-09-09",
+        "id_liquidacion": 9
+    },
+    {
+        "id_gasto": 35,
+        "concepto": "ascensor",
+        "monto": 464000,
+        "fecha": "2026-09-15",
+        "id_liquidacion": 9
+    },
+    {
+        "id_gasto": 36,
+        "concepto": "mantenimiento",
+        "monto": 813200,
+        "fecha": "2026-09-21",
+        "id_liquidacion": 9
+    },
+    {
+        "id_gasto": 37,
+        "concepto": "limpieza",
+        "monto": 1003000,
+        "fecha": "2026-10-03",
+        "id_liquidacion": 10
+    },
+    {
+        "id_gasto": 38,
+        "concepto": "luz",
+        "monto": 365800,
+        "fecha": "2026-10-09",
+        "id_liquidacion": 10
+    },
+    {
+        "id_gasto": 39,
+        "concepto": "ascensor",
+        "monto": 472000,
+        "fecha": "2026-10-15",
+        "id_liquidacion": 10
+    },
+    {
+        "id_gasto": 40,
+        "concepto": "mantenimiento",
+        "monto": 613600,
+        "fecha": "2026-10-21",
+        "id_liquidacion": 10
+    }
+]

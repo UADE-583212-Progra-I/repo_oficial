@@ -1,0 +1,44 @@
+[
+    {
+        "codigo": "1A",
+        "piso": 1,
+        "porcentaje": 15,
+        "dni": 30111222,
+        "id_consorcio": 1
+    },
+    {
+        "codigo": "1B",
+        "piso": 1,
+        "porcentaje": 15,
+        "dni": 27333444,
+        "id_consorcio": 1
+    },
+    {
+        "codigo": "2A",
+        "piso": 2,
+        "porcentaje": 17,
+        "dni": 33555666,
+        "id_consorcio": 1
+    },
+    {
+        "codigo": "2B",
+        "piso": 2,
+        "porcentaje": 17,
+        "dni": 25777888,
+        "id_consorcio": 1
+    },
+    {
+        "codigo": "3A",
+        "piso": 3,
+        "porcentaje": 18,
+        "dni": 35999000,
+        "id_consorcio": 1
+    },
+    {
+        "codigo": "3B",
+        "piso": 3,
+        "porcentaje": 18,
+        "dni": 33555666,
+        "id_consorcio": 1
+    }
+]
